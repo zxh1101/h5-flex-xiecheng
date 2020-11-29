@@ -1,1 +1,2 @@
 整体采用：flex布局+精灵图技术+背景线性渐变+伪元素结合字体图标+定位
+项目预览：https://zxh1101.github.io/h5-flex-xiecheng/index.html
